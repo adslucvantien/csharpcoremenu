@@ -1,0 +1,12 @@
+C:\Users\lvtien\source\repos\LibMenu\bin\Debug\net6.0\LibMenu.deps.json
+C:\Users\lvtien\source\repos\LibMenu\bin\Debug\net6.0\LibMenu.dll
+C:\Users\lvtien\source\repos\LibMenu\bin\Debug\net6.0\LibMenu.pdb
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.csproj.AssemblyReference.cache
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.AssemblyInfoInputs.cache
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.AssemblyInfo.cs
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.csproj.CoreCompileInputs.cache
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.dll
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\refint\LibMenu.dll
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\LibMenu.pdb
+C:\Users\lvtien\source\repos\LibMenu\obj\Debug\net6.0\ref\LibMenu.dll
